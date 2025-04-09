@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+
+minimal:
+  skin: dark # 或 light
+  accent: "#5B84B1" # 降低焦虑的蓝色
